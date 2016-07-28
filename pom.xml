@@ -236,7 +236,7 @@ under the License.
       <dependency>
         <groupId>org.eclipse.aether</groupId>
         <artifactId>aether-util</artifactId>
-        <version>${aether.version}</version>
+        <version>${ather.version}</version>
       </dependency>
       
       <!-- Maven -->
